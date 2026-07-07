@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'AlfaSlabOne';
+    src: url(data:font/woff2;base64,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) format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+:root {
+    font-size: 0;
+    color-scheme: light;
+    background-color: #F2EDE4;
+    background-image: radial-gradient(circle, rgba(0, 0, 0, 0.12) 1px, transparent 1px);
+    background-size: 24px 24px;
+
+    --serif: Georgia, 'Times New Roman', serif;
+    --sans-serif: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    height: 100%;
+    overflow: hidden;
+    /* Stop the document itself from panning/zooming when a card is dragged
+       off-screen (iOS ignores user-scalable=no, so this is the real guard). */
+    touch-action: none;
+    overscroll-behavior: none;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    -webkit-user-select: none;
+    user-select: none;
+}
